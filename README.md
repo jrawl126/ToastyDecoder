@@ -1,0 +1,2 @@
+# ToastyDecoder
+Sunburt DGA decoder 
